@@ -1,3 +1,6 @@
 name: Alex
 security:basic:enabled:false
 management:security:enabled:false
+spring.security.user.name=user "user"
+spring.security.user.password= "password"
+spring.security.user.roles= "ADMIN"
