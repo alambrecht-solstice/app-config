@@ -16,3 +16,5 @@ greeting:
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
+spring.profiles.active=qa
+
